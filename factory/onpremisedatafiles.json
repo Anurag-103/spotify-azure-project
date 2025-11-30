@@ -1,0 +1,9 @@
+{
+	"name": "onpremisedatafiles",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa3d0ac9-6c33-407a-8633-3dcccdca71ff",
+		"tenantId": "a4b1de6d-b2a2-4d7f-9ddb-8aedde3bfb55"
+	}
+}
